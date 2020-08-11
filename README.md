@@ -18,11 +18,12 @@
 
 ## Profile :desktop:
 - Prefinal Year in Electronics and Instrumentation Engineering <a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>
+- Ex- Deep Learning Intern @AtEva Technologies
 - Founder @Machine Learning for Everyone(ML4E)
 <a href="https://www.linkedin.com/company/machine-learning-for-everyone-ml4e">
-  <img align="left" alt='My LinkedIn' width="22px" src="https://github.com/Mrutyunjay01/Mrutyunjay01/blob/master/ML4e-Logo.png" />
+  <img align="center" alt="My LinkedIn" src="https://github.com/Mrutyunjay01/Mrutyunjay01/blob/master/ML4e-Logo.png" />
 </a>
-- Ex- Deep Learning Intern @AtEva Technologies
+
 
 
 **Languages and Tools:**  
