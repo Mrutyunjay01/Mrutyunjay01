@@ -16,7 +16,7 @@
 
     Machine Learning | Deep learning | Data Science | Open-Source |  
 
-## Profile :desktop:
+## Profile :eye:
 - Prefinal Year in Electronics and Instrumentation Engineering <a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>
 - Ex- Deep Learning Intern @AtEva Technologies
 - Founder @Machine Learning for Everyone(ML4E)
@@ -26,7 +26,7 @@
 
 
 
-**Languages and Tools:**  
+## Language and Tools :computer:  
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
