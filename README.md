@@ -21,7 +21,7 @@
 - Ex- Deep Learning Intern @AtEva Technologies
 - Founder @Machine Learning for Everyone(ML4E)
 <a href="https://www.linkedin.com/company/machine-learning-for-everyone-ml4e">
-  <img align="center" alt="My LinkedIn" src="https://github.com/Mrutyunjay01/Mrutyunjay01/blob/master/ML4e-Logo.png" />
+  <img align="center" alt="My LinkedIn" width="220px" src="https://github.com/Mrutyunjay01/Mrutyunjay01/blob/master/ML4e-Logo.png" />
 </a>
 
 
