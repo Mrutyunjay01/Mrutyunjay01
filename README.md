@@ -9,6 +9,7 @@
 - Research Intern in Acoustic Signal Processing at **NTU, Singapore** (Jul'21 - Present). 
 - Junior Machine Learing Engineer at **Omdena** (Apr'21 - Jun'21).
 - Deep Learning Engineer Intern at **Vedantu** ( Sep'20 - Nov'20).
+- Founder of **Machine Learning for Everyone(ML4E)**.
 - Worked on **Image Forensics, and Adversarial Attacks** at ISL, NIT Rourkela. Proposal accepted to **ICORT'21**.
 - Research Interest: ***Wireless Communication, Representational Learning, Geometric Learning, SSL, RL in Computer Vision and NLP, Knowledge Tracing.***
 - Scholarships: **Udacity Bertelsmann Scholar in Cloud Track**, **AWS Machine Learning Engineer Scholar**.
