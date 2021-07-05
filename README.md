@@ -1,57 +1,48 @@
- # <a href="https://www.linkedin.com/in/Mrutyunjay01/">Mrutyunjay Biswal</a> 👋
- 
+<h1 align="center">Hey ya👋, I am Mrutyunjay Biswal</h1>
+<h3 align="center">Machine Learning | Research | Competitive Data Science | Software Development</h3>
 
-<a href="https://www.linkedin.com/in/Mrutyunjay01/">
-  <img align="left" alt='My LinkedIn' width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Mrutyunjay01">
-  <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@ultronmaster">
-  <img align="left" alt="My Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrutyunjay01" alt="Mrutyunjay01" /> </p>
 
-<br/>
-<br/>
+## Key Experiences
 
-    Machine Learning | Deep learning | Data Science | Open-Source |  
+- Intern in Machine Learning and Edge Team at **Tata Communications** (Jul'21 - Present).
+- Research Intern in Acoustic Signal Processing at **NTU, Singapore** (Jul'21 - Present). 
+- Junior Machine Learing Engineer at **Omdena** (Apr'21 - Jun'21).
+- Deep Learning Engineer Intern at **Vedantu** ( Sep'20 - Nov'20).
+- Worked on **Image Forensics, and Adversarial Attacks** at ISL, NIT Rourkela. Proposal accepted to **ICORT'21**.
+- Research Interest: ***Wireless Communication, Representational Learning, Geometric Learning, SSL, RL in Computer Vision and NLP, Knowledge Tracing.***
+- Scholarships: **Udacity Bertelsmann Scholar in Cloud Track**, **AWS Machine Learning Engineer Scholar**.
+- *Kaggle 3x Expert* : **Top 0.15%** across the glob in **Notebooks**, **Datasets**, and **Discussions**.
 
-## Profile :eye:
-- Prefinal Year in Electronics and Instrumentation Engineering <a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>
-- Deep Learning Intern **@Instasolv**
-- Ex- Deep Learning Intern **@AtEva Technologies**
-- Founder **@Machine Learning for Everyone(ML4E)**
-<a href="https://www.linkedin.com/company/machine-learning-for-everyone-ml4e">
-  <img align="center" alt="My LinkedIn" width="220px" src="https://github.com/Mrutyunjay01/Mrutyunjay01/blob/master/ML4e-Logo.png" />
-</a>
+## An overview
 
+- 🔭 I’m currently working on **Wireless Communication, and Reinforcement Learning**.
 
+- 🌱 I’m currently learning **Flutter, Django, AWS, and Graph Machine Learning (GCNs, GNNs, Graphformers)**.
 
-## Language and Tools :computer:  
+- 👯 I’m looking to collaborate on **Kaggle Competitions**. [Reach out for queries/teaming up.](https://kaggle.com/mrutyunjaybiswal/)
 
+- 💬 Ask me about **Competitive ML, NLP, Computer Vision, Research.**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 📫 Reach me via: **mrutyunjay.tutulu1021@gmail.com**
 
+- ⚡ Fun fact **Well, why not follow me on Twitter [@Not_Ultron](https://twitter.com/Not_Ultron) then?**
 
+<!-- <h2 align="center">⚡️ Technology Stacks</h2>
+<p align="center">
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="travis" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p> -->
 
-<a href="https://github.com/Mrutyunjay01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrutyunjay01&theme=radical&hide=glsl, jupyter notebook" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mrutyunjay01&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
-
-  
-##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-/in/Mrutyunjay01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mrutyunjay01/)](https://www.linkedin.com/in/Mrutyunjay01/) [![Gmail Badge](https://img.shields.io/badge/-mrutyunjay.tutulu1021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mrutyunjay.tutulu1021@gmail.com) 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Mrutyunjay01/count.svg" />
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mrutyunjay01&layout=compact&hide=html&theme=jolly" alt="Mrutyunjay01" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<div align="center">
-
-
-</div>
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/mrutyunjay01"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Not_Ultron"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.kaggle.com/mrutyunjaybiswal/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mrutyunjay.tutulu1021@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hex_ultron/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
