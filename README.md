@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrutyunjay01" alt="Mrutyunjay01" /> </p>
 
 ## Key Experiences
-
+- Data Science Problem Setter Intern at **Scaler by InterviewBit** (Aug'21 - Present).
 - Intern in Machine Learning and Edge Team at **Tata Communications** (Jul'21 - Present).
 - Research Intern in Acoustic Signal Processing at **NTU, Singapore** (Jul'21 - Present). 
 - Junior Machine Learing Engineer at **Omdena** (Apr'21 - Jun'21).
