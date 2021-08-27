@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django, AWS, and Graph Machine Learning (GCNs, GNNs, Graphformers)**.
 
-- 👯 I’m looking to collaborate on **Kaggle Competitions**. [Reach out for queries/teaming up.](https://kaggle.com/mrutyunjaybiswal/)
+- ⏭ I’m looking to collaborate on **Kaggle Competitions**. [Reach out for queries/teaming up.](https://kaggle.com/mrutyunjaybiswal/)
 
 - 💬 Ask me about **Competitive ML, NLP, Computer Vision, Research.**
 
