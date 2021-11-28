@@ -13,7 +13,12 @@
 - Worked on **Image Forensics, and Adversarial Attacks** at ISL, NIT Rourkela. Proposal accepted to **ICORT'21**.
 - Research Interest: ***Wireless Communication, Representational Learning, Geometric Learning, SSL, RL in Computer Vision and NLP, Knowledge Tracing.***
 - Scholarships: **Udacity Bertelsmann Scholar in Cloud Track**, **AWS Machine Learning Engineer Scholar**.
-- *Kaggle 3x Expert* : **Top 0.15%** across the glob in **Notebooks**, **Datasets**, and **Discussions**.
+- *Kaggle 3x Expert* : **Top 0.15%** across the glob in **Notebooks**, **Datasets**, and **Discussions**.  
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/discussion/light)
 
 ## An overview
 
@@ -28,6 +33,7 @@
 - 📫 Reach me via: **mrutyunjay.tutulu1021@gmail.com**
 
 - ⚡ Fun fact **Well, why not follow me on Twitter [@Not_Ultron](https://twitter.com/Not_Ultron) then?**
+
 
 <!-- <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
