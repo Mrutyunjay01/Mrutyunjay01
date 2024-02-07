@@ -3,36 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrutyunjay01" alt="Mrutyunjay01" /> </p>
 
-## Key Experiences
-- Data Science Problem Setter Intern at **Scaler by InterviewBit** (Aug'21 - Present).
-- Intern in Machine Learning and Edge Team at **Tata Communications** (Jul'21 - Present).
-- Research Intern in Acoustic Signal Processing at **NTU, Singapore** (Jul'21 - Present). 
-- Junior Machine Learing Engineer at **Omdena** (Apr'21 - Jun'21).
-- Deep Learning Engineer Intern at **Vedantu** ( Sep'20 - Nov'20).
-- Founder of **Machine Learning for Everyone(ML4E)**.
-- Worked on **Image Forensics, and Adversarial Attacks** at ISL, NIT Rourkela. Proposal accepted to **ICORT'21**.
-- Research Interest: ***Wireless Communication, Representational Learning, Geometric Learning, SSL, RL in Computer Vision and NLP, Knowledge Tracing.***
-- Scholarships: **Udacity Bertelsmann Scholar in Cloud Track**, **AWS Machine Learning Engineer Scholar**.
-- *Kaggle 3x Expert* : **Top 0.15%** across the glob in **Notebooks**, **Datasets**, and **Discussions**.  
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrutyunjaybiswal/discussion/light)
-
-## An overview
-
-- 🔭 I’m currently working on **Wireless Communication, and Reinforcement Learning**.
-
-- 🌱 I’m currently learning **Flutter, Django, AWS, and Graph Machine Learning (GCNs, GNNs, Graphformers)**.
-
-- ⏭ I’m looking to collaborate on **Kaggle Competitions**. [Reach out for queries/teaming up.](https://kaggle.com/mrutyunjaybiswal/)
-
-- 💬 Ask me about **Competitive ML, NLP, Computer Vision, Research.**
-
-- 📫 Reach me via: **mrutyunjay.tutulu1021@gmail.com**
-
-- ⚡ Fun fact **Well, why not follow me on Twitter [@Not_Ultron](https://twitter.com/Not_Ultron) then?**
 
 
 <!-- <h2 align="center">⚡️ Technology Stacks</h2>
@@ -48,8 +23,8 @@
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/mrutyunjay01"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/Not_Ultron"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/LearnStochastic"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.kaggle.com/mrutyunjaybiswal/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mrutyunjay.tutulu1021@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hex_ultron/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mrutyunjay.biswal.hmu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zaldrizes.darios/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
